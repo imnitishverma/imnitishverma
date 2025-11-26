@@ -44,14 +44,3 @@ Connect with me across my channels. **Business inquiries are welcome!**
 | **Podcast (Spotify)** | [Nitish Verma Talk Show](https://podcasts.apple.com/us/podcast/nitish-verma-talk-show/id1568226425) | 🎤 |
 
 ---
-
-### 📊 GitHub Activity Snapshot (Optional Visuals)
-
-Showcase your coding activity and stats to reinforce your commitment to technology.
-
-```markdown
-<p align="center">
-    <img src="[https://github-readme-stats.vercel.app/api?username=imnitishverma&show_icons=true&theme=buefy&hide_title=true&hide_border=true&count_private=true&disable_animations=true](https://github-readme-stats.vercel.app/api?username=imnitishverma&show_icons=true&theme=buefy&hide_title=true&hide_border=true&count_private=true&disable_animations=true)" alt="Nitish Verma's GitHub Stats" />
-    
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=imnitishverma&layout=compact&theme=buefy&hide_title=true&hide_border=true&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=imnitishverma&layout=compact&theme=buefy&hide_title=true&hide_border=true&langs_count=6)" alt="Nitish Verma's Top Languages" />
-</p>
